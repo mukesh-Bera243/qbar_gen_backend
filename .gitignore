@@ -44,6 +44,7 @@ Thumbs.db
 *.wmv
 
 # Environment Variable
+qbar/
 qbar
 __pycache__/
 
