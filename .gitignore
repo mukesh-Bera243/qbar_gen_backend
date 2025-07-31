@@ -44,8 +44,7 @@ Thumbs.db
 *.wmv
 
 # Environment Variable
-qbar/
-qbar
+.qbar
 __pycache__/
 
 # Adminlte Static Files and DB
